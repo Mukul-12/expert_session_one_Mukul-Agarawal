@@ -8,4 +8,4 @@
 ## To Run The Code
 * Clone Github Repository to your computer
 * Run Data Preparation.ipynb to prepare the data in your computer.
-* Run Data Search.ipynb file to search a blood group deatils in a particular country.
+* Run Data Search to search a blood group deatils in a particular country.
