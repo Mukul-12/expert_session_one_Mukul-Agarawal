@@ -9,3 +9,4 @@
 * Clone Github Repository to your computer
 * Run Data Preparation.ipynb to prepare the data in your computer.
 * Run Data Search to search a blood group deatils in a particular country.
+* if the country name is not valid then it show some message
